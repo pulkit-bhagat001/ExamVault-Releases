@@ -24,6 +24,6 @@ Access and organize previous year question papers easily across universities.
 2. Enable "Install from unknown sources" if needed  
 3. Install the APK  
 
-## Download
+## Download Section
 
 [Download Exam Vault v5.0 APK](https://github.com/pulkit-bhagat001/ExamVault-Releases/releases/download/v5.0/examvault-v5.0.apk)
